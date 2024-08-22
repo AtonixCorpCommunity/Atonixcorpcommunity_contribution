@@ -1,7 +1,7 @@
 markdown
-# Contributing to AtonixCorp Community Social Media
+# Contributing to AtonixCorp Community 
 
-We welcome contributions to the AtonixCorp Community Social Media project! Your ideas, suggestions, and code improvements are valuable in making this platform better. Please follow the guidelines below to ensure a smooth contribution process.
+We welcome contributions to the AtonixCorp Community project! Your ideas, suggestions, and code improvements are valuable in making this platform better. Please follow the guidelines below to ensure a smooth contribution process.
 
 ## How to Contribute
 
